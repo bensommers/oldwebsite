@@ -7,3 +7,6 @@ This is my test portfolio working w/ AWS and ReactJS
 Git and github
 SSH
 CentOS, Hyper-V running on local desktop to further linux adoption
+HTML
+CSS
+
