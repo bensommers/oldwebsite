@@ -1,12 +1,10 @@
 # Ben Sommers Portfolio
 
-This is my test portfolio working w/ AWS and ReactJS
+This is my test portfolio, originally created in 2017 using a serverless platform on AWS and ReactJS; now many years later I am resurrecting it.
 
 ## Technologies Used
 
 Git and github
-SSH
-CentOS, Hyper-V running on local desktop to further linux adoption
 HTML
 CSS
 
